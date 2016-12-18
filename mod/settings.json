@@ -1,0 +1,62 @@
+{
+    "110373943822540800" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : null
+    },
+    "133049272517001216" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : null
+    },
+    "199291909896798208" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : "256904218571571200"
+    },
+    "223930503785480205" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : "257221582148206593"
+    },
+    "227565009188814848" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : "260037944197251072"
+    },
+    "236311632198762496" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : "252320939683872788"
+    },
+    "249545706606428171" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : null
+    },
+    "249696227111862272" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : "258889383233454082"
+    },
+    "253103353679052801" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : null
+    },
+    "257667364466720770" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : null
+    },
+    "259266997932654592" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : null
+    },
+    "259473368380604426" : {
+        "ban_mention_spam" : false,
+        "delete_repeats" : false,
+        "mod-log" : "259990520137383937"
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "199291909896798208" : {
+        "1" : {
+            "action" : "Channel Mute :no_mouth:",
+            "case" : 1,
+            "message" : "258919974540804097",
+            "moderator" : "`!\ud835\udd07\ud835\udd1e\ud835\udd2b\ud835\udd24\ud835\udd22\ud835\udd2f\ud835\udd2c\ud835\udd32\ud835\udd30",
+            "moderator_id" : "187570149207834624",
+            "reason" : null,
+            "user" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "user_id" : "146040787891781632"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "258923755361796113",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "Testing with my alt.",
+            "user" : "\u06a9\u0166 \u2726Stoner",
+            "user_id" : "168837427908050945"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "258928375752687617",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "HatBot",
+            "user_id" : "247262554072547338"
+        },
+        "4" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 4,
+            "message" : "258934534005850113",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u06a9\u0166 \u2726Stoner",
+            "user_id" : "168837427908050945"
+        },
+        "5" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 5,
+            "message" : "258951835690336257",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Google",
+            "user_id" : "187406062989606912"
+        }
+    },
+    "223930503785480205" : {
+        "1" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 1,
+            "message" : "257222069098512385",
+            "moderator" : "Seth",
+            "moderator_id" : "158295680106889216",
+            "reason" : "Inactive.",
+            "user" : "\u3270\u6d73\u1455\u1ee3\u03b2\u044f\u0394\u30c4\u2713",
+            "user_id" : "231798407377846273"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "258818693163646977",
+            "moderator" : "Seth\u2692",
+            "moderator_id" : "158295680106889216",
+            "reason" : "Telling people to KYS.",
+            "user" : "kms!",
+            "user_id" : "196288643382378497"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "259974786170486784",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Roby\u2122",
+            "user_id" : "217210008629280769"
+        }
+    },
+    "249696227111862272" : {
+        "1" : {
+            "action" : "Mute :no_mouth:",
+            "case" : 1,
+            "message" : "258890871137763329",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "Testing.",
+            "user" : "HutZ\u3270",
+            "user_id" : "134500343718477834"
+        },
+        "10" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 10,
+            "message" : "259532178227068928",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : "thinks he 40",
+            "user" : "\u0f3a\u795e\u0f3b\u0e56\u06e3\u06dc\u0110\u25b3\u03fb\u25b3\u13b6\u20ac\u0f3b\u3010\u1d33\u1d52\u1d48\u3011",
+            "user_id" : "234388781212368896"
+        },
+        "11" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 11,
+            "message" : "259553396179206144",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : null,
+            "user" : "\u015c\u00f8\u1da9\u0256\u1f30\u0247\u1d72-\u0224\u1d33\u1d52\u1d48\u2765\u6578",
+            "user_id" : "251986261307424778"
+        },
+        "12" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 12,
+            "message" : "259565201253203970",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : null,
+            "user" : "Joker",
+            "user_id" : "226518122717380628"
+        },
+        "13" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 13,
+            "message" : "259569404591865866",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : "He a retard",
+            "user" : "\u0547ha\u03b7\ud83d\udca3 Zoph | Designer <3",
+            "user_id" : "207074041859801088"
+        },
+        "14" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 14,
+            "message" : "259847338338549760",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : "advertising",
+            "user" : "\ud83d\udc09 D\u0365ra\u0363g\u036bon\u0363 \ud83d\udc09\u2500stuff",
+            "user_id" : "154126436083564544"
+        },
+        "15" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 15,
+            "message" : "259867875198631936",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "DaKingAlexHD\u2611\ufe0f",
+            "user_id" : "200331452171288576"
+        },
+        "16" : {
+            "action" : "Channel Mute :no_mouth:",
+            "case" : 16,
+            "message" : "259875266896068608",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "Lel, he wanted it.",
+            "user" : "\u5342\u200a\u0489\u4e47\u200a\u0489\u51e0\u200a\u0489\u21c0\u523a\u5ba2",
+            "user_id" : "210885238723706883"
+        },
+        "17" : {
+            "action" : "Channel Unmute :smiley:",
+            "case" : 17,
+            "message" : "259875440381001729",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "Eh, ok.",
+            "user" : "\u5342\u200a\u0489\u4e47\u200a\u0489\u51e0\u200a\u0489\u21c0\u523a\u5ba2",
+            "user_id" : "210885238723706883"
+        },
+        "18" : {
+            "action" : "Server Mute :no_mouth:",
+            "case" : 18,
+            "message" : "259875702449504256",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "He wanted his alt muted. \ud83d\ude15",
+            "user" : "\u5342\u200a\u0489\u4e47\u200a\u0489\u51e0\u200a\u0489\u21c0\u523a\u5ba2",
+            "user_id" : "239651783054458880"
+        },
+        "19" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 19,
+            "message" : "259878467485696001",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "Fuck donald trump.",
+            "user" : "Unknown",
+            "user_id" : "238121211383644160"
+        },
+        "2" : {
+            "action" : "Server Mute :no_mouth:",
+            "case" : 2,
+            "message" : "258892099351609344",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "Testing.",
+            "user" : "HutZ\u3270",
+            "user_id" : "134500343718477834"
+        },
+        "20" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 20,
+            "message" : "259931525129175041",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : "Sending gay shit",
+            "user" : "Anal",
+            "user_id" : "258774711935172608"
+        },
+        "21" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 21,
+            "message" : "259935970525184001",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : "he's dumb",
+            "user" : "\u0e56\u06e3\u06dc\u01ac\u03cc\u03aeic\u2765\u21c0\u2726\u2750",
+            "user_id" : "216519417591365632"
+        },
+        "22" : {
+            "action" : "Channel Mute :no_mouth:",
+            "case" : 22,
+            "message" : "259947937935654912",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : null,
+            "user" : "Clipz",
+            "user_id" : "229125744926785546"
+        },
+        "23" : {
+            "action" : "Channel Unmute :smiley:",
+            "case" : 23,
+            "message" : "259948246867116033",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : "he's a good boy",
+            "user" : "Clipz",
+            "user_id" : "229125744926785546"
+        },
+        "3" : {
+            "action" : "Server Unmute :smiley:",
+            "case" : 3,
+            "message" : "258892250677903360",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : "Testing, also make it so nobody can send messages in this channel.",
+            "user" : "HutZ\u3270",
+            "user_id" : "134500343718477834"
+        },
+        "4" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 4,
+            "message" : "259441348225138690",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "BigBoyDavid",
+            "user_id" : "259421346990129182"
+        },
+        "5" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 5,
+            "message" : "259441390289813504",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "BigDickLewis",
+            "user_id" : "259418703295283200"
+        },
+        "6" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 6,
+            "message" : "259514517141061632",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Asian\u3270",
+            "user_id" : "163691249730191360"
+        },
+        "7" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 7,
+            "message" : "259517579586961408",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Blackness",
+            "user_id" : "252614240878329866"
+        },
+        "8" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 8,
+            "message" : "259518555161231361",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Artix\u3270",
+            "user_id" : "158795149374259200"
+        },
+        "9" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 9,
+            "message" : "259528733541662721",
+            "moderator" : "\u0e56\u06e3\u06dcE\u03b7\u03b5\u044fg\u04af\u1d3a\u1d3f\u1d33\u2765\u6c17\uf96b\u21c0\u3270\ud83c\udf3a0.3 k",
+            "moderator_id" : "170419952568893440",
+            "reason" : "douche",
+            "user" : "Joker",
+            "user_id" : "226518122717380628"
+        }
+    },
+    "259473368380604426" : {
+        "1" : {
+            "action" : "Channel Mute :no_mouth:",
+            "case" : 1,
+            "message" : "259990604640026625",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : null,
+            "user" : "Brooklyn",
+            "user_id" : "226132382846156800"
+        },
+        "2" : {
+            "action" : "Channel Unmute :smiley:",
+            "case" : 2,
+            "message" : "259990841588711424",
+            "moderator" : "Y\u03c3\u03c5\u03b7g S\u03b9\u03b7\u03b1\u0442\u044f\u03b1\u2122",
+            "moderator_id" : "146040787891781632",
+            "reason" : null,
+            "user" : "Brooklyn",
+            "user_id" : "226132382846156800"
+        }
+    }
+}
