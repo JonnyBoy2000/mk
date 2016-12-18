@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "Sentry",
+    "INSTALL_MSG" : "Thank you for installing deletesay",
+    "NAME" : "deletesay",
+    "SHORT" : "says a message and deletes the command",
+    "DESCRIPTION" : "says a message and deletes the command"
+}

@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "Sentry",
+    "SHORT" : "Android Debug Bridge cog",
+    "DESCRIPTION" : "Android Debug Bridge cog for Discord",
+    "DISABLED" : false,
+    "NAME" : "Channelinfo",
+    "INSTALL_MSG" : "Thanks for installing my Android Debug Bridge cog.\nIts sadly only usable on Linux"
+}

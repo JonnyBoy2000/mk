@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "Sentry",
+    "INSTALL_MSG" : "Thank you for installing IsLoaded",
+    "DISABLED" : false,
+    "NAME" : "IsLoaded",
+    "SHORT" : "Shows you if a Cog is loaded based on class.",
+    "DESCRIPTION" : "Shows you if a Cog is loaded based on class. Great to check if you class is defined right"
+}

@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "Sentry",
+    "INSTALL_MSG" : "Thank you for install tools.\nIt has no real use except for quick debugging.",
+    "NAME" : "tools",
+    "SHORT" : "a quick debug tool",
+    "DESCRIPTION" : "a quick debug tool"
+}
